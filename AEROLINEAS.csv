@@ -1,0 +1,101 @@
+Codigo de Viajero,Nombre,Aerolinea,Millas
+C0001,Juan,American Airlines,1464.0
+C0002,Luis,American Airlines,5621.0
+C0003,Carla,Aeroméxico,1192.0
+C0004,Pedro,KLM,5035.0
+C0005,Juan,,4666.0
+C0006,Carlos,American Airlines,6570.0
+C0007,Luis,Avianca,1570.0
+C0008,Carlos,Air France,2229.0
+C0009,Juan,,5623.0
+C0010,Ana,Aeroméxico,4565.0
+C0011,Ana,American Airlines,1217.0
+C0012,Ana,Spirit,9736.0
+C0013,María,,2099.0
+C0014,María,American Airlines,8738.0
+C0015,Lucía,American Airlines,5800.0
+C0016,Luis,Iberia,5466.0
+C0017,Luis,Air France,
+C0018,Carlos,Air France,9329.0
+C0019,,Copa Airlines,5004.0
+C0020,Ana,Aeroméxico,
+C0021,María,Delta,5465.0
+C0022,María,Aeroméxico,1168.0
+C0023,Elena,Iberia,7599.0
+C0024,Carlos,Aeroméxico,9164.0
+C0025,Carla,Avianca,9862.0
+C0026,Juan,,
+C0027,,Spirit,6278.0
+C0028,Luis,Spirit,7099.0
+C0029,Juan,Delta,8869.0
+C0030,José,Copa Airlines,7743.0
+C0031,Carlos,American Airlines,3991.0
+C0032,Elena,,4921.0
+C0033,Carla,,5112.0
+C0034,,United,4282.0
+C0035,Carla,,7582.0
+C0036,Carlos,KLM,6639.0
+C0037,Ana,Iberia,3321.0
+C0038,,Air France,
+C0039,Ana,Copa Airlines,
+C0040,María,Air France,6295.0
+C0041,Carla,Spirit,1467.0
+C0042,Juan,KLM,8374.0
+C0043,Luis,Delta,6762.0
+C0044,José,American Airlines,
+C0045,José,Spirit,1973.0
+C0046,Elena,KLM,4716.0
+C0047,Juan,Spirit,2679.0
+C0048,Ana,Spirit,6515.0
+C0049,Lucía,Delta,9830.0
+C0050,José,United,5627.0
+C0051,Lucía,Delta,9843.0
+C0052,Ana,American Airlines,5596.0
+C0053,Carla,Copa Airlines,
+C0054,Lucía,,940.0
+C0055,Ana,,2803.0
+C0056,,Copa Airlines,5485.0
+C0057,,Iberia,9497.0
+C0058,Luis,,6175.0
+C0059,Juan,,570.0
+C0060,,United,2495.0
+C0061,Juan,Spirit,3417.0
+C0062,Carlos,United,6068.0
+C0063,Juan,Iberia,1838.0
+C0064,Luis,,
+C0065,Lucía,KLM,4055.0
+C0066,Lucía,Air France,2760.0
+C0067,Carlos,Air France,5458.0
+C0068,Ana,Delta,4093.0
+C0069,,Aeroméxico,2242.0
+C0070,,Air France,
+C0071,María,United,4876.0
+C0072,Luis,Aeroméxico,7353.0
+C0073,,,907.0
+C0074,,Avianca,3596.0
+C0075,José,Delta,8902.0
+C0076,Carla,Aeroméxico,
+C0077,,Air France,6083.0
+C0078,,United,3725.0
+C0079,,Aeroméxico,699.0
+C0080,,,9074.0
+C0081,Pedro,Avianca,
+C0082,Carla,Spirit,6269.0
+C0083,Lucía,Aeroméxico,1716.0
+C0084,Carla,Air France,9915.0
+C0085,Pedro,Spirit,1946.0
+C0086,Juan,Air France,2168.0
+C0087,Carlos,KLM,2768.0
+C0088,José,Air France,
+C0089,Lucía,Delta,
+C0090,Luis,Air France,7969.0
+C0091,Ana,Iberia,2608.0
+C0092,Pedro,Spirit,6873.0
+C0093,Elena,United,9444.0
+C0094,María,Avianca,2686.0
+C0095,José,Iberia,
+C0096,Lucía,Copa Airlines,2123.0
+C0097,Carlos,,6510.0
+C0098,Carla,United,2144.0
+C0099,Carlos,Spirit,
+C0100,Juan,Air France,8786.0
